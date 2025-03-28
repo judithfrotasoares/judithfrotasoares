@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Eu sou Judith!
 
-<!--
-**judithfrotasoares/judithfrotasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedor Full Stack em formação pela EBAC (25% do curso concluído).
+💪 Buscando minha primeira oportunidade como Dev Jr.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web e automação com Python. Estou em uma jornada constante de aprendizado e evolução, construindo projetos práticos para demonstrar minhas competências.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Principais Habilidades
+Frontend: HTML5, CSS3, JavaScript, React
+Backend: Python, Flask, Django
+Banco de Dados: SQLite, PostgreSQL, SQLAlchemy
+Ferramentas e Controle de Versão: Git, GitHub
+Outros Conhecimentos: Automação com Python, APIs REST, Integração com APIs públicas
