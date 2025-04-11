@@ -1,9 +1,9 @@
 Olá! Eu sou Judith!
 
-🎓 Desenvolvedor Full Stack em formação pela EBAC (25% do curso concluído).
+🎓 Desenvolvedora Full Stack em formação pela EBAC (35% do curso concluído).
 💪 Buscando minha primeira oportunidade como Dev Jr.
 
-Sou apaixonado por tecnologia e estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web e automação com Python. Estou em uma jornada constante de aprendizado e evolução, construindo projetos práticos para demonstrar minhas competências.
+Sou apaixonada por tecnologia e estou focado em aprender e aprimorar minhas habilidades em desenvolvimento web e automação com Python. Estou em uma jornada constante de aprendizado e evolução, construindo projetos práticos para demonstrar minhas competências.
 
 🚀 Principais Habilidades
 Frontend: HTML5, CSS3, JavaScript, React
